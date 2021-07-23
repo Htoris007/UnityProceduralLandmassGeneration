@@ -1,0 +1,14 @@
+.vscode
+Library
+Logs
+obj
+Packages
+ProjectSettings
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+NoiseMap.sln
+UpgradeLog.htm
+**.meta
+**.unity
